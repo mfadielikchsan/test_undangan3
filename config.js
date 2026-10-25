@@ -57,3 +57,4 @@ window.CONFIG = {
 
   ai: { endpoint: "https://dark-tree-ca4b.fadielikchsan1905.workers.dev/", model: "gpt-4o-mini" },
 };
+
